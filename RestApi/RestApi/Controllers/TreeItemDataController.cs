@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Cors;
 
 namespace RestApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class TreeItemDataController : ControllerBase
     {

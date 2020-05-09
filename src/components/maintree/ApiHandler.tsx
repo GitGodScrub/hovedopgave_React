@@ -3,7 +3,7 @@ import TreeItemData from "./types";
 import TestData from "../../_test-folderData.json";
 
 async function getJsonData() {
-  const url = "https://localhost:5001/api/treeitemdata";
+  const url = "https://localhost:5001/treeitemdata";
   const obj = (await (await fetch(url)).json()) as TreeItemData[];
   return obj;
 }
