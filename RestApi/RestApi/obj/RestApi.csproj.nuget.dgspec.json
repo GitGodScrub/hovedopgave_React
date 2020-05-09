@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\hovedopgave_code3\\RestApi\\RestApi\\RestApi.csproj": {}
+    "C:\\hovedopgave_code3\\hovedopgave_React\\RestApi\\RestApi\\RestApi.csproj": {}
   },
   "projects": {
-    "C:\\hovedopgave_code3\\RestApi\\RestApi\\RestApi.csproj": {
+    "C:\\hovedopgave_code3\\hovedopgave_React\\RestApi\\RestApi\\RestApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\hovedopgave_code3\\RestApi\\RestApi\\RestApi.csproj",
+        "projectUniqueName": "C:\\hovedopgave_code3\\hovedopgave_React\\RestApi\\RestApi\\RestApi.csproj",
         "projectName": "RestApi",
-        "projectPath": "C:\\hovedopgave_code3\\RestApi\\RestApi\\RestApi.csproj",
+        "projectPath": "C:\\hovedopgave_code3\\hovedopgave_React\\RestApi\\RestApi\\RestApi.csproj",
         "packagesPath": "C:\\Users\\Dr. Transparent\\.nuget\\packages\\",
-        "outputPath": "C:\\hovedopgave_code3\\RestApi\\RestApi\\obj\\",
+        "outputPath": "C:\\hovedopgave_code3\\hovedopgave_React\\RestApi\\RestApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
