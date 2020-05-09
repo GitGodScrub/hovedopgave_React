@@ -13,6 +13,6 @@ class JsonTreeItem implements TreeItemData {
 
   @jsonMember
   label!: string;
-}
+}//was supposed to be used in serialization
 
 export default JsonTreeItem;
