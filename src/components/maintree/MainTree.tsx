@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import TreeView from "@material-ui/lab/TreeView";
-import { getJsonData } from "./apihandler";
+import { getJsonData } from "./ApiHandler";
 import { useQuery } from "react-query";
 import { mapTreeItemsToJsx } from "./utils";
 
